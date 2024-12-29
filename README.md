@@ -1,5 +1,10 @@
-<centre>Html Practical Interview Question Problems</centre>
+<div align="center">
+  <br />
+  <br />
+  <h2 align="center">Html Practical Interview Question Problems</h2>
+</div>
 
+<br />
 # Basic HTML Practice Problems
 
 
